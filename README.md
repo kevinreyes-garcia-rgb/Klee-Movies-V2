@@ -18,3 +18,9 @@ para ver las series sigue estos pasos:
 1. **Clonar el repositorio:**
    ```bash
    https://kevinreyes-garcia-rgb.github.io/Klee-Movies-V4/
+
+>**NOTA**
+>Para entrar a la pagina ocupas lo siguiente 
+>| Username | Password |
+>|   :---   |   :---   |
+>|**usuario**|usuario11|
