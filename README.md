@@ -20,9 +20,9 @@ para ver las series sigue estos pasos:
    ```bash
    https://kevinreyes-garcia-rgb.github.io/Klee-Movies-V4/
 
-   o hacer clip en el link 
+o hacer clip en el link 
    
-   ![Kelle-Movies](https://kevinreyes-garcia-rgb.github.io/Klee-Movies-V4/)
+![Kelle-Movies](https://kevinreyes-garcia-rgb.github.io/Klee-Movies-V4/)
 
 >**NOTA**
 >Para entrar a la pagina ocupas lo siguiente 
