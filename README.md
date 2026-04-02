@@ -12,17 +12,17 @@ Hola vienvenido a Klee Movies es algo nuevo donde pondre algunos animes o pelicu
 | **Lead Dev** | [Klee](https://github.com/kevinreyes-garcia-rgb/) |
 | **Colaboradora** | [Cuervita](https://github.com/rezemd56-hash/) |
 
-## 🛠️ Instalación y Uso
+<details>
+   <summary>Instalacion</summary>
 
-para ver las series sigue estos pasos:
+[Link Directo]( https://kevinreyes-garcia-rgb.github.io/Klee-Movies-V5/)
 
-1. **Clonar el repositorio:**
-   ```bash
-   https://kevinreyes-garcia-rgb.github.io/Klee-Movies-V5/
-
-o hacer clip en el link 
+Link Copiable 
+```
+ https://kevinreyes-garcia-rgb.github.io/Klee-Movies-V5/
+ ```
    
-[Kelle-Movies](https://kevinreyes-garcia-rgb.github.io/Klee-Movies-V5/)
+</details>
 
 >**NOTA**
 >Para entrar a la pagina ocupas lo siguiente 
